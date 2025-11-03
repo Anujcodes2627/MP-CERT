@@ -1,0 +1,20 @@
+EVIL_MARKER_1234
+suspicious_function
+HelloFromMalware
+TEST_SECRET
+evil_payload
+CreateRemoteThread
+connect
+cmd.exe
+XOR_KEY
+password=
+Authorization:
+http://192.168.1.100/malicious
+http://10.0.0.5/steal
+MZ -- pretend PE header marker
+shellcode present here
+kill_process
+bypass
+obfuscate
+open_port
+malicious_toolkit
